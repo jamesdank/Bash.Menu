@@ -52,3 +52,5 @@ function menu () {
         echo -e "${red}Wrong option${nc}" ;;
         esac
 }
+
+menu
